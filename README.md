@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Ku Mohd Syafiq
-#### I am a front-end developer
+#Ku Mohd Syafiq
 
 Graduated from Universiti Kuala Lumpur British Malaysian Institute (BMI) with a Bachelor of Engineering Electronics. Possess over 5 years of total working experiences as a programmer and IT support.
 
