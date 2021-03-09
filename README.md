@@ -3,9 +3,11 @@ Graduated from Universiti Kuala Lumpur British Malaysian Institute (BMI) with a 
 
 ## Skills: 
 * ReactJS
-* Angular 2+
 * React Native
+* Angular 2+
+* Gatsby
 * HTML / CSS / Typescript
+* TailwindCSS
 
 ## Others:
 - 🔭 I’m currently working on this page. 
