@@ -2,10 +2,12 @@
 Web and mobile developer, mostly on React JS and React Native. 🧑🏻‍💻
 
 ## Skills: 
-* ReactJS
+* Next.js
+* React
 * React Native
-* Angular 2+
+* Angular TS
 * Gatsby
+* AEM
 * HTML / CSS / Typescript
 * TailwindCSS
 
